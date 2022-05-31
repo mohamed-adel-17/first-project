@@ -1,0 +1,83 @@
+.navbar-brand img {
+    width: 140px;
+}
+
+.home {
+    background-image: url(../img/asset2.ed25c7587f099684d6ff.jpeg);
+    background-size: 100% 100%;
+}
+
+.home-content {
+    color: white;
+    text-align: center;
+}
+
+.home-content {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.home-content h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.Who-We-Are,
+.our-location {
+    width: 88%;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    padding: 8px;
+    color: bisque;
+    border: 1px solid bisque;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.icons p {
+    margin-left: 7px;
+}
+
+.p-text {
+    color: #686868;
+}
+
+.contact-icons .contact-icon {
+    width: 40px;
+    padding: 15px;
+    font-size: 2.5rem;
+    border-radius: 40%;
+    border: #686868 1px solid;
+}
+.contact-icon1{
+    color: rgb(9, 126, 126);
+}
+.contact-icon3{
+    color: rgb(66, 187, 42)
+}
+.contact-icon2 ,.contact-icon4{
+    color: rgb(51, 53, 189);
+}
+
+
+.mail{
+    width: 55%;
+    margin: 10px 0;
+    border: 1px solid black;
+}
+
+.mail p {
+    margin: auto;
+    padding: 10px;
+    font-weight: 600;
+    transition: all .5s;
+}
+
+
+
